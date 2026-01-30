@@ -1,3 +1,3 @@
 # Tic-Tac-Teo-Game
-<br>
+<br> Simple Game
 This is my first repository
